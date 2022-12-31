@@ -244,11 +244,3 @@ We aim to not have a "capped" organization. At this level of experience and seni
 1. https://peadarcoyle.wordpress.com/2018/03/17/what-does-it-mean-to-be-a-senior-data-scientist/
 2. https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/
 3. https://towardsdatascience.com/what-makes-a-good-data-scientist-engineer-a8b4d7948a86
-
-<a id="license"></a>
-## License
-
-![CC BY-SA 4.0](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
-
-This work is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
-
